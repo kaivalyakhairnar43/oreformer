@@ -1,3 +1,5 @@
+# KAIVALYA KHAIRNAR - 21MI10030
+
 # Rock Identification Using Deep Convolution Neural Network
 
 > Category: Deep Learning
@@ -20,7 +22,7 @@
 
 ## Description
 
-Rocks are a fundamental component of Earth. The automatic identification of rock type in the field would aid geological surveying, education, and automatic mapping. It is a basic part of geological surveying and research, and mineral resources exploration. The automatic identification of rock type in the field would aid geological surveying, education, and automatic mapping. Working conditions in the field generally limit identification to visual methods, including using a magnifying glass for fine-grained rocks. Visual inspection assesses properties such as colour, composition, grain size, and structure. The attributes of rocks reflect their mineral and chemical composition, formation environment, and genesis. The colour of rock reflects its chemical composition. But these analysis is time taken process to identify the rocks.Its application here has effectively identified rock types from images captured in the field. This paper proposes an accurate approach for identifying rock types in the field based on image analysis using deep convolutional neural networks.
+Rocks are a fundamental component of the Earth, and their automatic identification in the field plays a crucial role in geological surveying, education, and automatic mapping. This process is essential for geological research and mineral resource exploration. Due to the challenging conditions in the field, rock identification often relies on visual methods, including the use of a magnifying glass for fine-grained specimens. Visual inspection evaluates attributes such as color, composition, grain size, and structure, which reflect the rock's mineral and chemical composition, formation environment, and origin. For example, the color of a rock provides insights into its chemical makeup. However, traditional identification methods can be time-consuming. To address this, image-based analysis using deep convolutional neural networks has shown promising results in accurately identifying rock types directly from field images. This paper presents a robust approach leveraging deep learning for precise and efficient rock type classification.
 
 ## Technologies
 
